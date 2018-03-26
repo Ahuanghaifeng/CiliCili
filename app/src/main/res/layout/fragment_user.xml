@@ -10,6 +10,7 @@
         android:layout_height="150dp">
 
         <ImageView
+            android:background="@mipmap/timg"
             android:id="@+id/iv_head"
             android:layout_centerInParent="true"
             android:layout_width="50dp"
@@ -29,18 +30,19 @@
         android:paddingRight="10dp"
         android:paddingLeft="10dp"
         android:background="@color/colorWhite"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="40dp">
 
         <ImageView
+            android:background="@mipmap/shuoming"
             android:layout_centerVertical="true"
             android:layout_width="25dp"
             android:layout_height="25dp" />
 
         <TextView
             android:layout_centerVertical="true"
-            android:layout_marginLeft="30dp"
+            android:layout_marginLeft="35dp"
             android:text="使用说明"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
@@ -58,18 +60,19 @@
         android:paddingRight="10dp"
         android:paddingLeft="10dp"
         android:background="@color/colorWhite"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="40dp">
 
         <ImageView
+            android:background="@mipmap/haoping"
             android:layout_centerVertical="true"
             android:layout_width="25dp"
             android:layout_height="25dp" />
 
         <TextView
             android:layout_centerVertical="true"
-            android:layout_marginLeft="30dp"
+            android:layout_marginLeft="35dp"
             android:text="5星好评送积分"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
@@ -96,13 +99,14 @@
         android:layout_height="40dp">
 
         <ImageView
+            android:background="@mipmap/more"
             android:layout_centerVertical="true"
             android:layout_width="25dp"
             android:layout_height="25dp" />
 
         <TextView
             android:layout_centerVertical="true"
-            android:layout_marginLeft="30dp"
+            android:layout_marginLeft="35dp"
             android:text="获取更多积分"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
@@ -129,13 +133,14 @@
         android:layout_height="40dp">
 
         <ImageView
+            android:background="@mipmap/about"
             android:layout_centerVertical="true"
             android:layout_width="25dp"
             android:layout_height="25dp" />
 
         <TextView
             android:layout_centerVertical="true"
-            android:layout_marginLeft="30dp"
+            android:layout_marginLeft="35dp"
             android:text="关于与反馈"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
@@ -147,6 +152,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content" />
     </RelativeLayout>
+
     <TextView
         android:background="@color/line"
         android:layout_width="match_parent"
