@@ -4,7 +4,9 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorYellow">#FFFF81</color>
+    <color name="colorC">#ff8800</color>
     <color name="colorWhite">#FFFFFF</color>
     <color name="line">#ececec</color>
     <color name="black">#000000</color>
+    <color name="color_333333">#333333</color>
 </resources>

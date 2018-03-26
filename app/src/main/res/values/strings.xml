@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">CiliCili</string>
     <string name="index_title">磁力搜搜搜</string>
+    <string name="torrent_size">种子大小:</string>
+    <string name="file_number">文件数量:</string>
+    <string name="create_time">创建时间:</string>
+    <string name="hint">注：搜索服务仅提供链接信息，并不存储任何资源和种子文件</string>
 </resources>
